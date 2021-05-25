@@ -30,6 +30,10 @@ import matplotlib.pyplot as plt
 ## Project File
 Access the project [here](https://drive.google.com/file/d/1PDh232ztbq0azaLv0oXsISzOLDIGgSQR/view?usp=sharing).
 
+## Data
+
+Download the data [here](https://www.kaggle.com/shrutibhargava94/india-air-quality-data).
+
 ## Authors
 [Jack Taylor](https://www.linkedin.com/in/jack-taylor-su/)
 
