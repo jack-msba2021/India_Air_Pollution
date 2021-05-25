@@ -32,7 +32,7 @@ Access the project [here](https://drive.google.com/file/d/1PDh232ztbq0azaLv0oXsI
 
 ## Data
 
-Download the data [here](https://www.kaggle.com/shrutibhargava94/india-air-quality-data).
+Download the dataset [here](https://www.kaggle.com/shrutibhargava94/india-air-quality-data).
 
 ## Authors
 [Jack Taylor](https://www.linkedin.com/in/jack-taylor-su/)
